@@ -1,0 +1,26 @@
+client:
+  token: "---"
+  prefix: "!"
+
+activities:
+  presence: "!refund | CFX STORE LEAKED"
+  type: "WATCHING"
+
+settings:
+  footer: "CFX Store | Refund System ©"
+  color: "GREEN" # Find more at https://gist.github.com/thomasbnt/b6f455e2c7d743b796917fa3c205f812
+  thumbnailURL: "# Thumbnail"
+  guildID: "GUILD ID HIER"
+
+
+database:
+  host: "127.0.0.1"
+  username: "root"
+  password: ""
+  database: "development_server"
+
+ #  @By : https://github.com/cfxStore
+ #  @Creator : https://github.com/HoaxFacts
+
+
+
